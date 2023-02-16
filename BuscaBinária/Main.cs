@@ -25,6 +25,7 @@ public class HelloWorld
         
         while(min <= max);
         
+        // it will return if the code cannot found out the data. 
         return -1;
     }
     
